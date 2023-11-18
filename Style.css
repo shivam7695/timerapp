@@ -75,8 +75,8 @@ h1{
     align-items: center;
     margin: auto;
     width: 50%;
-    background-color: antiquewhite;
-    color: black;
+    background-color: #34344A;
+    color: rgb(255, 255, 255);
     text-align: center;
     border-radius: 0 0 15px 15px;
 }
@@ -87,8 +87,8 @@ h1{
     align-items: center;
     margin: auto;
     width: 50%;
-    background-color: antiquewhite;
-    color: black;
+    background-color:#34344A;
+    color: rgb(255, 255, 255);
     text-align: center;
     border-radius:  15px 15px 0 0;
 }
@@ -98,8 +98,8 @@ h1{
     align-items: center;
     margin-left: 45%;
     width: 5%;
-    background-color: antiquewhite;
-    color: black;
+    background-color:#34344A;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 15px;
    
@@ -115,7 +115,7 @@ h1{
     padding: 15px;
     border-radius: 15px;
     width: 10%;
-    background-color: antiquewhite;
+    background-color: #34344A;
     color: black;
     text-align: center;
 
