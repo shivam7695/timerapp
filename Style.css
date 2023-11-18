@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: rgb(12, 12, 64);
+}
+
+body{
+    width: 85%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#para{
+    background-color: transparent;
+    padding: 15px;
+}
+#container{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-radius: 15px;
+    background-color:  #34344A;
+    padding: 15px;
+}
+#container>input{
+    border: none;
+    border-radius: 20px;
+    background-color: transparent;
+    font-size: 20px;
+}
+#container>img{
+    width: 30px;
+    background-color: transparent;
+   
+}
+#container>p{
+    margin: auto;
+    text-align: center;
+    background-color: transparent;
+}
+#startTimer{
+    margin-left: 15px;
+    border: none;
+    border-radius: 15px;
+    width: 70px;
+    color: black; 
+    font-weight: 600;
+    background-color: rgb(183, 255, 0);
+}
+#heading{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    background-color: #39393E;
+}
+
+.timer-container{
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+}
+.timer{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+}
+
+
+.time-left{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    border-radius:  15px 15px 0 0;
+}
+
+.control-button{
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+    width: 5%;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    padding: 15px;
+   
+    margin-top: 15px;
+
+}
+.stop-button{
+    
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 45%;
+    padding: 15px;
+    border-radius: 15px;
+    width: 10%;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+
+}
+.no-timers-text{
+    text-align: center;
+    font-size: 35px;
+}
+
